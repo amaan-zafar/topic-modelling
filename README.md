@@ -18,8 +18,8 @@ The intent of look up file is to eventually tag the Topics identified for each U
 
 The web scraper that you create might be required to run on your own system / or may work on colab . Depends on the time taken for response from these sites , file storage capacity on a google drive (tied to a colab) or eventually saving on your local systems. Not all web page link will work via scraping , so try to identify metrics around :
 
-No of web page hits
-Sucess Ratio
+- No of web page hits
+- Sucess Ratio
 
 ## Component 2 - Topic Model
 
